@@ -6,8 +6,10 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        {/* This is a comment will not actually run with code*/}
+        {/* This is now the new welcome page */}
         <p>
-          gjhvjhvhvhvhvjhvhjhjnh
+          Jacob and John say hello
         </p>
         <a
           className="App-link"
